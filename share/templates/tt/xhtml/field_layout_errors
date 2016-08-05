@@ -11,6 +11,6 @@
 %][%    output.join("\n")
 %][%    IF self.error_container_tag.defined 
 %]
-</[% self.error_container_tag 
-%]>[%    END 
-%][% END -%]
+</[% self.error_container_tag
+%][%    END 
+%][% END %]
